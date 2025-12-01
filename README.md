@@ -48,18 +48,11 @@ This program simulates a full game of casino-style Blackjack against a dealer, s
 
 2.  **Compile the program**
 
-    ```bash
-    g++ -std=c++17 -o blackjack main.cpp
-    # Replace 'main.cpp' with the name of your source file.
-    ```
+    - Open your C++ compiler
+    - Open the main.cpp file
 
 3.  **Run the program**
-
-    ```bash
-    ./blackjack
-    ```
-
-      * Follow the on-screen prompts to enter the number of players and their bets.
+    - Follow the on-screen prompts to enter the number of players and their bets.
 
 ##  Code Structure Notes
 
